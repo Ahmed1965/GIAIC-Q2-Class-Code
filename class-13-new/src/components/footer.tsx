@@ -118,7 +118,7 @@ export default function Footer() {
       </div>
 
       <p className="text-gray-300 text-right text-[15px] mt-8">
-        © ReadymadeUI. All rights reserved.
+        © Powered by Buraq Software Pvt Ltd. All rights reserved.
       </p>
     </footer>
   );
